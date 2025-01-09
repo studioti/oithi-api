@@ -1,5 +1,86 @@
 [
     {
-        
+        "id": 1,
+        "nome": "abril",
+        "descricao": "Grupo Abril",
+        "tamanho": 200
+    },
+    {
+        "id": 2,
+        "nome": "folhasp",
+        "descricao": "Folha de São Paulo",
+        "tamanho": 200
+    },
+    {
+        "id": 3,
+        "nome": "estadao",
+        "descricao": "Estado de São Paulo",
+        "tamanho": 180
+    },
+    {
+        "id": 4,
+        "nome": "fgv",
+        "descricao": "Fundação Getúlio Vargas",
+        "tamanho": 150
+    },
+    {
+        "id": 5,
+        "nome": "egcreative",
+        "descricao": "eg!creative",
+        "tamanho": 100
+    },
+    {
+        "id": 6,
+        "nome": "dpto",
+        "descricao": "DPTO",
+        "tamanho": 100
+    },
+    {
+        "id": 7,
+        "nome": "alicewonders",
+        "descricao": "Alice Wonders",
+        "tamanho": 100
+    },
+    {
+        "id": 8,
+        "nome": "potencialtecnologia",
+        "descricao": "Potencial Tecnologia",
+        "tamanho": 200
+    },
+    {
+        "id": 9,
+        "nome": "espiral",
+        "descricao": "Espiral Interativa",
+        "tamanho": 100
+    },
+    {
+        "id": 10,
+        "nome": "w5",
+        "descricao": "W5 Publicidade",
+        "tamanho": 100
+    },
+    {
+        "id": 11,
+        "nome": "maquinarus",
+        "descricao": "Maquinarus",
+        "tamanho": 100
+    },
+    {
+        "id": 12,
+        "nome": "cappuccino",
+        "descricao": "Cappuccino",
+        "tamanho": 100
+    },
+    {
+        "id": 13,
+        "nome": "isobar",
+        "descricao": "Isobar",
+        "tamanho": 100
+    },
+    {
+        "id": 14,
+        "nome": "cvc",
+        "descricao": "CVC Corp.",
+        "tamanho": 100
     }
 ]
