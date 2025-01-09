@@ -1,4 +1,4 @@
-# [API Portfolio] - Thiago Aguiar - Frontend Developer
+# [API] - Thiago Aguiar - Frontend Developer
 
 ## Get list of Empresas
 
