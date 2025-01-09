@@ -3,49 +3,56 @@
         "id": 1,
         "nome": "reserva",
         "titulo": "Reserva",
-        "descricao": "O projeto Reserva foi desenvolvido utilizando Vue.js 3 e Nuxt.js 3 com Components, Lifecycles e Vuex, integrado ao design responsivo com Bootstrap 5 e Sass, alinhado às necessidades do cliente, com versionamento em Git e layout personalizado.",
+        "descricao": "A Reserva - Nosso ambiente acolhedor e tranquilo foi meticulosamente projetado para proporcionar momentos de serenidade, criando um espaço onde cada visitante pode deixar suas preocupações do lado de fora.",
+        "stack": "",
         "url": ""
     },
     {
         "id": 2,
         "nome": "potencial",
         "titulo": "Potencial Tecnologia",
-        "descricao": "Descrição do ParceleAqui",
-        "url": "https://parceleaqui.com.br"
+        "descricao": "O Parcele Aqui é uma solução de parcelamento de contas do Grupo Potencial, que atua desde 2002 no mercado de pagamentos.",
+        "stack": "",
+        "url": "https://parceleaqui.com.br/"
     },
     {
         "id": 3,
         "nome": "cardapio",
         "titulo": "Comanda Cloud - Cardápio digital",
-        "descricao": "Descrição do Comanda Cloud",
-        "url": ""
+        "descricao": "Com o Comanda Cloud, gerencie suas comandas de maneira ágil e eficiente, aproveitando a flexibilidade de utilização em vários dispositivos simultaneamente.",
+        "stack": "",
+        "url": "https://6744c379c7ddea0d4815117e--studioti.netlify.app/lp"
     },
     {
         "id": 4,
         "nome": "wavoleibol",
         "titulo": "WA Voleibol",
-        "descricao": "",
-        "url": ""
+        "descricao": "A WA Voleibol tem como objetivo ampliar o vasto conhecimento adquirido lecionando aulas por anos a diversos alunos e firmando projetos escolares bem definidos e estabelecidos que o trouxeram grandes conquistas.",
+        "stack": "",
+        "url": "https://wavoleibol.com.br/"
     },
     {
         "id": 5,
         "nome": "primora",
         "titulo": "CBA Primora",
-        "descricao": "",
-        "url": ""
+        "descricao": "A Primora foi criada com o objetivo de aprimorar os sistemas em alumínio, desde o projeto, passando pelo relacionamento com os profissionais até a sua instalação. Aprimore seus projetos com Primora.",
+        "stack": "",
+        "url": "https://www.cbaprimora.com.br/"
     },
     {
         "id": 6,
         "nome": "fgv",
         "titulo": "FGV Seguros",
-        "descricao": "",
-        "url": ""
+        "descricao": "O Exame Nacional de Habilitação para Corretores de Seguros é a forma mais prática e rápida de obter a habilitação para exercer a profissão no mercado segurador.",
+        "stack": "",
+        "url": "https://seguros.conhecimento.fgv.br"
     },
     {
         "id": 7,
         "nome": "blindex",
         "titulo": "Blindex +PAR",
-        "descricao": "",
-        "url": ""
+        "descricao": "Blindex®+PAR é o programa de relacionamento exclusivo para as Revendas Blindex.",
+        "stack": "",
+        "url": "https://6749ec51ec4886d62c5ce909--studioti.netlify.app/"
     }
 ]
