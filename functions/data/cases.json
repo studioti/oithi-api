@@ -4,6 +4,7 @@
         "nome": "reserva",
         "titulo": "Reserva",
         "descricao": "A Reserva - Nosso ambiente acolhedor e tranquilo foi meticulosamente projetado para proporcionar momentos de serenidade, criando um espaço onde cada visitante pode deixar suas preocupações do lado de fora.",
+        "coluna": "esquerda",
         "stack": "",
         "url": ""
     },
@@ -12,6 +13,7 @@
         "nome": "potencial",
         "titulo": "Potencial Tecnologia",
         "descricao": "O Parcele Aqui é uma solução de parcelamento de contas do Grupo Potencial, que atua desde 2002 no mercado de pagamentos.",
+        "coluna": "direita",
         "stack": "",
         "url": "https://parceleaqui.com.br/"
     },
@@ -20,6 +22,7 @@
         "nome": "cardapio",
         "titulo": "Comanda Cloud - Cardápio digital",
         "descricao": "Com o Comanda Cloud, gerencie suas comandas de maneira ágil e eficiente, aproveitando a flexibilidade de utilização em vários dispositivos simultaneamente.",
+        "coluna": "esquerda",
         "stack": "",
         "url": "https://6744c379c7ddea0d4815117e--studioti.netlify.app/lp"
     },
@@ -28,6 +31,7 @@
         "nome": "wavoleibol",
         "titulo": "WA Voleibol",
         "descricao": "A WA Voleibol tem como objetivo ampliar o vasto conhecimento adquirido lecionando aulas por anos a diversos alunos e firmando projetos escolares bem definidos e estabelecidos que o trouxeram grandes conquistas.",
+        "coluna": "direita",
         "stack": "",
         "url": "https://wavoleibol.com.br/"
     },
@@ -36,6 +40,7 @@
         "nome": "primora",
         "titulo": "CBA Primora",
         "descricao": "A Primora foi criada com o objetivo de aprimorar os sistemas em alumínio, desde o projeto, passando pelo relacionamento com os profissionais até a sua instalação. Aprimore seus projetos com Primora.",
+        "coluna": "esquerda",
         "stack": "",
         "url": "https://www.cbaprimora.com.br/"
     },
@@ -44,6 +49,7 @@
         "nome": "fgv",
         "titulo": "FGV Seguros",
         "descricao": "O Exame Nacional de Habilitação para Corretores de Seguros é a forma mais prática e rápida de obter a habilitação para exercer a profissão no mercado segurador.",
+        "coluna": "direita",
         "stack": "",
         "url": "https://seguros.conhecimento.fgv.br"
     },
