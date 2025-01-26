@@ -20,7 +20,7 @@
     {
         "id": 3,
         "nome": "cardapio",
-        "titulo": "Comanda Cloud - Cardápio digital",
+        "titulo": "Comanda Cloud",
         "descricao": "Com o Comanda Cloud, gerencie suas comandas de maneira ágil e eficiente, aproveitando a flexibilidade de utilização em vários dispositivos simultaneamente.",
         "coluna": "esquerda",
         "stack": "",
