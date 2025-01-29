@@ -16,7 +16,7 @@
         "titulo": "Parcele Aqui",
         "descricao": "O Parcele Aqui é uma solução de parcelamento de contas do Grupo Potencial, que atua desde 2002 no mercado de pagamentos. Além de atuar no digital, nossa solução também está presente em 100+ pontos físicos espalhados por todo o Brasil. Nossa empresa é reconhecida e respeitada por grandes instituições financeiras, que enxergam no Parcele Aqui uma solução fluida e transparente que traz credibilidade e inovação para o mercado.",
         "coluna": "direita",
-        "techstack": "Vue JS 2, Nuxt JS 2, Vuex, Bootstrap Vue, Sass, Putty, HTML, CSS, JIRA, Conventional Commit, Git Flow, consumo de API's (methods, watch, created, components), PINPAD",
+        "techstack": "Vue JS 2, Nuxt JS 2, Vuex, Bootstrap Vue, Sass, Putty, HTML, CSS, JIRA, Conventional Commit, Git Flow, Consumo de APIs, Lifecycle, PINPAD",
         "url": "https://parceleaqui.com.br/",
         "ano": "2023 • 2024",
         "repositorio": ""
