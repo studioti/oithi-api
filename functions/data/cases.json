@@ -3,28 +3,34 @@
         "id": 1,
         "nome": "reserva",
         "titulo": "Reserva",
-        "descricao": "A Reserva - Nosso ambiente acolhedor e tranquilo foi meticulosamente projetado para proporcionar momentos de serenidade, criando um espaço onde cada visitante pode deixar suas preocupações do lado de fora.",
+        "descricao": "A Reserva • Nosso ambiente acolhedor e tranquilo foi meticulosamente projetado para proporcionar momentos de serenidade, criando um espaço onde cada visitante pode deixar suas preocupações do lado de fora.",
         "coluna": "esquerda",
-        "stack": "",
-        "url": ""
+        "techstack": "Vue JS 3, Nuxt JS 3, Vuex, Bootstrap 5, Sass, Git, Netlify, VSCode",
+        "url": "",
+        "ano": "2024",
+        "repositorio": ""
     },
     {
         "id": 2,
         "nome": "potencial",
         "titulo": "Parcele Aqui",
-        "descricao": "O Parcele Aqui é uma solução de parcelamento de contas do Grupo Potencial, que atua desde 2002 no mercado de pagamentos.",
+        "descricao": "O Parcele Aqui é uma solução de parcelamento de contas do Grupo Potencial, que atua desde 2002 no mercado de pagamentos. Além de atuar no digital, nossa solução também está presente em 100+ pontos físicos espalhados por todo o Brasil. Nossa empresa é reconhecida e respeitada por grandes instituições financeiras, que enxergam no Parcele Aqui uma solução fluida e transparente que traz credibilidade e inovação para o mercado.",
         "coluna": "direita",
-        "stack": "",
-        "url": "https://parceleaqui.com.br/"
+        "techstack": "Vue JS 2, Nuxt JS 2, Vuex, Bootstrap Vue, Sass, Putty, HTML, CSS, JIRA, Conventional Commit, Git Flow, consumo de API's (methods, watch, created, components), PINPAD",
+        "url": "https://parceleaqui.com.br/",
+        "ano": "2023 • 2024",
+        "repositorio": ""
     },
     {
         "id": 3,
         "nome": "cardapio",
         "titulo": "Comanda Cloud",
-        "descricao": "Com o Comanda Cloud, gerencie suas comandas de maneira ágil e eficiente, aproveitando a flexibilidade de utilização em vários dispositivos simultaneamente.",
+        "descricao": "Otimize o atendimento com o Comanda Cloud. Aplicativo grátis que permite criar um cardápio digital e disponibilizar o QR code nas mesas. Seus clientes podem fazer pedidos diretamente pelo cardápio e enviá-los detalhadamente via WhatsApp, evitando a perda de tempo com trocas de mensagens.",
         "coluna": "esquerda",
-        "stack": "",
-        "url": "https://6744c379c7ddea0d4815117e--studioti.netlify.app/lp"
+        "techstack": "Gulp, Bootstrap 5, Sass, Nunjucks, VSCode, InputMask, Netlify, Git",
+        "url": "https://6744c379c7ddea0d4815117e--studioti.netlify.app/lp",
+        "ano": "2024",
+        "repositorio": ""
     },
     {
         "id": 4,
@@ -32,8 +38,10 @@
         "titulo": "WA Voleibol",
         "descricao": "A WA Voleibol tem como objetivo ampliar o vasto conhecimento adquirido lecionando aulas por anos a diversos alunos e firmando projetos escolares bem definidos e estabelecidos que o trouxeram grandes conquistas.",
         "coluna": "direita",
-        "stack": "",
-        "url": "https://wavoleibol.com.br/"
+        "techstack": "Gulp, Bootstrap 5, Sass, Nunjucks, VSCode, Font Awesome, Netlify, Git",
+        "url": "https://wavoleibol.com.br/",
+        "ano": "2024",
+        "repositorio": ""
     },
     {
         "id": 5,
@@ -41,25 +49,31 @@
         "titulo": "CBA Primora",
         "descricao": "A Primora foi criada com o objetivo de aprimorar os sistemas em alumínio, desde o projeto, passando pelo relacionamento com os profissionais até a sua instalação. Aprimore seus projetos com Primora.",
         "coluna": "esquerda",
-        "stack": "",
-        "url": "https://www.cbaprimora.com.br/"
+        "techstack": "Gulp, Bootstrap 5, Sass, Nunjucks, VSCode, Font Awesome, Netlify, Git",
+        "url": "https://www.cbaprimora.com.br/",
+        "ano": "2023",
+        "repositorio": ""
     },
     {
         "id": 6,
         "nome": "fgv",
         "titulo": "FGV Seguros",
-        "descricao": "O Exame Nacional de Habilitação para Corretores de Seguros é a forma mais prática e rápida de obter a habilitação para exercer a profissão no mercado segurador.",
+        "descricao": "O Exame Nacional de Habilitação para Corretores de Seguros é a forma mais prática e rápida de obter a habilitação para exercer a profissão no mercado segurador. Para realizar a prova e começar a trabalhar com o selo de qualidade FGV no currículo, basta o candidato possuir Ensino Médio completo.",
         "coluna": "direita",
-        "stack": "",
-        "url": "https://seguros.conhecimento.fgv.br"
+        "techstack": ".NET, Blazor, Azure DevOps, JIRA, Bootstrap, Sass, VSCode, Git",
+        "url": "https://seguros.conhecimento.fgv.br",
+        "ano": "2020 • 2023",
+        "repositorio": ""
     },
     {
         "id": 7,
         "nome": "blindex",
         "titulo": "Blindex +PAR",
-        "descricao": "Blindex®+PAR é o programa de relacionamento exclusivo para as Revendas Blindex.",
+        "descricao": "Com mais de 70 anos de história, a Blindex® é sinônimo de vidro temperado e de segurança, já acumulou prêmios e se tornou um caso singular de sucesso entre as marcas industriais brasileiras. É com orgulho que a Blindex® lança essa campanha para você, parceiro que faz parte dessa história de sucesso, participe e ganhe mais na parceria.",
         "coluna": "esquerda",
-        "stack": "",
-        "url": "https://6749ec51ec4886d62c5ce909--studioti.netlify.app/"
+        "techstack": "Gulp, Bootstrap 5, Sass, Nunjucks, VSCode, Font Awesome, Netlify, Git",
+        "url": "https://6749ec51ec4886d62c5ce909--studioti.netlify.app/",
+        "ano": "2024",
+        "repositorio": ""
     }
 ]
