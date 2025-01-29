@@ -5,7 +5,7 @@
         "titulo": "Reserva",
         "descricao": "A Reserva • Nosso ambiente acolhedor e tranquilo foi meticulosamente projetado para proporcionar momentos de serenidade, criando um espaço onde cada visitante pode deixar suas preocupações do lado de fora.",
         "coluna": "esquerda",
-        "techstack": "Vue JS 3, Nuxt JS 3, Vuex, Bootstrap 5, Sass, Git, Netlify, VSCode",
+        "techstack": "Vue JS 3, Nuxt JS 3, Vuex, Lifecycle, Components, Bootstrap 5, Sass, Git, Netlify, VSCode",
         "url": "",
         "ano": "2024",
         "repositorio": ""
